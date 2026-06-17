@@ -20,4 +20,10 @@ El repositorio contiene una aplicación desarrollada en **MATLAB App Designer**,
 - Harrison
 - Vogel generalizado
 
-Si desea consultar de forma independiente cada modelo, sus escuaciones, citas y algoritmos podrá encontrarlas en la carpeta Modelos de este repositorio.
+Si desea consultar de forma independiente cada modelo, sus ecuaciones, citas y algoritmos, podrá encontrarlos en la carpeta **Modelos** de este repositorio.
+
+<h3 align="center">Ejemplo de Curva IPR | Modelo de Vogel</h3>
+
+<p align="center">
+  <img src="Im%C3%A1genes/Ejemplo%20de%20Curva%20IPR%20modelo%20Vogel.png" alt="Ejemplo de Curva IPR modelo Vogel">
+</p>
